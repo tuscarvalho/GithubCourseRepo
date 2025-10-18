@@ -1,0 +1,16 @@
+{
+    "personagens": [
+        {
+            "nome": "Luke Skywalker",
+            "filme": "Star Wars: Episódio IV - Uma Nova Esperança"
+        },
+        {
+            "nome": "Darth Vader",
+            "filme": "Star Wars: Episódio V - O Império Contra-Ataca"
+        },
+        {
+            "nome": "Ob-Wan Kenobi",
+            "filme": "Star Wars: Episódio III - A Vingança dos Sith"
+        }
+    ]
+}
