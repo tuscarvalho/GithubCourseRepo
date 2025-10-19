@@ -1,0 +1,16 @@
+{
+    "planetas": [
+        {
+            "nome": "Alderaan",
+            "clima": "temperate"
+        },
+        {
+            "nome": "Coruscant",
+            "clima": "temperate"
+        },
+        {
+            "nome": "Endor",
+            "clima": "temperate"
+        }   
+    ]
+}

@@ -11,6 +11,10 @@
         {
             "nome": "Ob-Wan Kenobi",
             "filme": "Star Wars: Episódio III - A Vingança dos Sith"
+        },
+        {
+            "nome": "Master Yoda",
+            "filme": "Star Wars: Episódio II - Ataque dos Clones"
         }
     ]
 }
