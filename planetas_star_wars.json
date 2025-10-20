@@ -11,10 +11,6 @@
         {
             "nome": "Endor",
             "clima": "temperate"
-        },
-        {
-            "nome": "Terra",
-            "clima": "temperate"
-        }  
+        }   
     ]
 }
