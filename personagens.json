@@ -15,6 +15,15 @@
         {
             "nome": "Master Yoda",
             "filme": "Star Wars: Episódio II - Ataque dos Clones"
+        },
+        {
+            "nome": "Rey",
+            "filme": "Star Wars: Episódio VII - O Despertar da Força"
+        },
+        {
+            "nome":  "Finn",
+            "filme": "Star Wars: Episódio VIII - Os Últimos Jedi"
         }
+
     ]
 }
