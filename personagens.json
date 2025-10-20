@@ -17,12 +17,18 @@
             "filme": "Star Wars: Episódio II - Ataque dos Clones"
         },
         {
+
             "nome": "Rey",
             "filme": "Star Wars: Episódio VII - O Despertar da Força"
         },
         {
             "nome":  "Finn",
             "filme": "Star Wars: Episódio VIII - Os Últimos Jedi"
+        },
+        {
+            "nome": "Kylo Ren",
+            "filme": "Star Wars: Episódio IV - Uma Nova Esperança"
+
         }
 
     ]
